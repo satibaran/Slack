@@ -3,14 +3,21 @@ package day_1;
 public class CreateChannel {
     public static void main(String[] args) {
 
-        String s="string";
+        String s = "string";
         if (s.contains("string")) {
 
             System.out.println("true");
         } else {
             System.out.println("false");
 
+
             //conflict fixing...
         }
+
     }
+
+
+//conflict fixing from Github... 
+
 }
+
